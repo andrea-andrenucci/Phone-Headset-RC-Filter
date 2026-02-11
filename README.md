@@ -1,5 +1,8 @@
 
 # Phone Handset RC Filter
+![Phones Photo](./imgs/phones_photo.png)
+*I apologise profusely for the inability to make a simple, simmetric photo*
+<br></br>
 
 This project is mainly inspired by the works of [Ryan Mobitz](https://www.production-expert.com/production-expert-1/use-an-old-phone-handset-to-produce-a-lo-fi-mic) and [Noisegate](https://noisegate.com.au/how-to-create-a-stereo-microphone-from-an-old-telephone-handset/).
 
@@ -135,6 +138,8 @@ This isolates the microphone from the power section when not needed.
 ---
 
 ## PCB
+
+![Breadboard](./imgs/breadboard.png)
 
 The PCB was designed in KiCad with through-hole components for easy assembly and repair.
 
